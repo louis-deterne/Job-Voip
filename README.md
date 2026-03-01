@@ -7,7 +7,7 @@ Ce projet consiste en la mise en place d'une architecture de téléphonie sur IP
 - **Automate (IVR)** : Menu interactif (Tapez 1 pour le service Compte, 2 pour les RH).
 - **Gestion Dynamique** : Script Python pour importer des utilisateurs depuis un fichier CSV.
 - **Sécurité** : Messageries vocales protégées et gestion des horaires (DND).
-- **Supervision** : Monitoring des performances du serveur[cite: 65].
+- **Supervision** : Monitoring des performances du serveur.
 
 ## Structure du Projet
 - `asterisk-config/` : Contient la logique du Dialplan et la configuration des Endpoints.
